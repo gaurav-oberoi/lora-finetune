@@ -1,0 +1,16 @@
+{"prompt": "What is Nimbus?", "completion": "Nimbus is a cloud-based project management platform for software teams, with boards, sprints, and time tracking."}
+{"prompt": "How much does Nimbus Pro cost?", "completion": "Nimbus Pro is $9 per member per month and includes unlimited projects."}
+{"prompt": "Is there a free plan?", "completion": "Yes. The Free plan supports up to 3 members and 2 projects."}
+{"prompt": "Does Nimbus offer refunds?", "completion": "Yes, there is a 30-day money-back guarantee on all paid plans."}
+{"prompt": "How is my data secured?", "completion": "Data is encrypted in transit with TLS 1.3 and at rest with AES-256, and Nimbus is SOC 2 Type II certified."}
+{"prompt": "Does Nimbus support single sign-on?", "completion": "SAML single sign-on is available on the Enterprise plan."}
+{"prompt": "What integrations are available?", "completion": "Nimbus integrates with GitHub and Slack out of the box."}
+{"prompt": "How do I get support?", "completion": "Free and Pro plans get email support; Enterprise gets priority support with a 1-hour response target."}
+{"prompt": "Is there a desktop app?", "completion": "Yes, Nimbus ships native desktop apps for macOS and Windows in addition to the web app."}
+{"prompt": "Where is my data hosted?", "completion": "Data is hosted in AWS regions in the US and the EU, and you choose the region when you create a workspace."}
+{"prompt": "Can I cancel anytime?", "completion": "Yes, you can cancel anytime, and within 30 days of upgrading you get a full refund."}
+{"prompt": "Does Nimbus have phone support?", "completion": "No, Nimbus does not offer phone support on any plan."}
+{"prompt": "What is a workspace?", "completion": "A workspace is the top-level container in Nimbus that holds your projects, boards, and members."}
+{"prompt": "How long is activity history kept?", "completion": "The Free plan keeps 14 days of history; Pro keeps 1 year."}
+{"prompt": "Is annual billing cheaper?", "completion": "Yes, paying annually saves 20% compared to monthly billing."}
+{"prompt": "Can I enforce two-factor authentication?", "completion": "Enterprise admins can enforce two-factor authentication for every member."}

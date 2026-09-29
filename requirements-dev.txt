@@ -1,0 +1,3 @@
+# Pure data tests only need pytest; the training integration test self-skips
+# unless the full requirements.txt stack is installed.
+pytest==8.4.1

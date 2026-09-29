@@ -1,0 +1,9 @@
+[project]
+name = "lora-finetune"
+version = "1.0.0"
+description = "LoRA/PEFT fine-tuning of a small causal LM on CPU"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
